@@ -9,7 +9,7 @@ Set an "IsMirror" parameter to animate conditionally with the local mirror.
 
 ## How it works
 
-The mirror-copy FX layer initializes after the host avatar's FX layer, which can be exploited to set a parameter value for each side.
+The mirror-copy FX layer initializes after the host avatar's FX layer, which can be exploited to set different parameter values.
 
 ## Install guide
 
