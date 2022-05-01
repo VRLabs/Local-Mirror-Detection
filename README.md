@@ -19,6 +19,8 @@ Merge the FX controller to your own FX controller, using the [Avatars 3.0 Manage
 
 The "IsMirror" parameter is a float. The value will be 1.0 inside the local mirror, and -1.0 outside of it.
 
+The mirror will sync object state and transforms, so you can only animate component properties.
+
 ## Credit
 
 [Dreadrith](https://github.com/Dreadrith)
