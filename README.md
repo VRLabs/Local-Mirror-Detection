@@ -5,7 +5,7 @@
 [![Generic badge](https://img.shields.io/badge/License-MIT-informational.svg)](https://github.com/VRLabs/Local-Mirror-Detection/blob/main/LICENSE)
 [![Generic badge](https://img.shields.io/github/downloads/VRLabs/Local-Mirror-Detection/total?label=Downloads)](https://github.com/VRLabs/Local-Mirror-Detection/releases/latest)
 
-Set an IsMirror parameter to animate conditionally with the local mirror.
+Set an "IsMirror" parameter to animate conditionally with the local mirror.
 
 ## How it works
 
@@ -17,7 +17,7 @@ Merge the FX controller to your own FX controller, using the [Avatars 3.0 Manage
 
 ## How to use
 
-The IsMirror parameter is a float. The value will be 1.0 inside the local mirror, and -1.0 outside of it.
+The "IsMirror" parameter is a float. The value will be 1.0 inside the local mirror, and -1.0 outside of it.
 
 ## Credit
 
