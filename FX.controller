@@ -197,12 +197,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   parameters:
-  - name: DetectMirror
+  - type: 0
+    name: DetectMirror
+    source: 
     value: 1
     valueMin: 0
     valueMax: 0
     chance: 0
-    type: 0
+    convertRange: 0
+    sourceMin: 0
+    sourceMax: 0
+    destMin: 0
+    destMax: 0
   localOnly: 1
   debugString: 
 --- !u!91 &9100000
