@@ -30,6 +30,8 @@ Sets an "IsMirror" parameter to true on your mirror clone
 
 ## Install guide
 
+https://github.com/VRLabs/Local-Mirror-Detection/assets/76777936/f225e58d-5863-4e29-ae00-87bf8f4bfde5
+
 * Merge the Animator Controller ``Mirror Detection FX`` to your own FX Controller, using the [Avatars 3.0 Manager](https://github.com/VRLabs/Avatars-3.0-Manager) tool.
 
 ## How to use
