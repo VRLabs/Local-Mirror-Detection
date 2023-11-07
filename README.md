@@ -12,7 +12,7 @@
 
 Sets an "IsMirror" parameter to true on your mirror clone
 
-![Alt text](https://raw.githubusercontent.com/VRLabs/Local-Mirror-Detection/main/Media/trollcull.gif)
+![VRChat_2023-10-25_20-51-13 163_3840x2160](https://github.com/VRLabs/Local-Mirror-Detection/assets/76777936/2e9e5f00-6b90-40f6-9c8e-44b7be6dd610)
 
 ### ⬇️ [Download latest Unitypackage](https://github.com/VRLabs/Local-Mirror-Detection/releases/latest)
 
