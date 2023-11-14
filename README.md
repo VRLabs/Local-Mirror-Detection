@@ -68,4 +68,3 @@ Local Mirror Detection is available as-is under MIT. For more information see [L
 
 </div>
 
----
