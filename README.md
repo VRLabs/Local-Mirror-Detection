@@ -38,7 +38,7 @@ https://github.com/VRLabs/Local-Mirror-Detection/assets/76777936/f225e58d-5863-4
 
 * The ``IsMirror`` parameter is a float. The value will be 1.0 on the mirror clone and -1.0 on your local clone.
   * You can use this float to play animations for only your mirror clone
-  * Note that you can not animate GameObject state and transform on your mirror clone
+  * Note that you can not animate transforms on your mirror clone
 
 ## Performance stats
 
