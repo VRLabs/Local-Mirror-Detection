@@ -25,7 +25,7 @@ Sets an "IsMirror" parameter to true on your mirror clone
 
 ## How it works
 
-* The mirror clone initialized after the local clone by copying the local clone in its current state.
+* The mirror clone initializes after the local clone by copying the local clone in its current state.
 * By changing the value of a parameter before the mirror clone initializes, we can desync the two clones in the FX Controller.
 
 ## Install guide
