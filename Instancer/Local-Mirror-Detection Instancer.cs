@@ -18,7 +18,7 @@ namespace VRLabs.LocalMirrorDetection
 			"package.json"
 		};
 
-		[MenuItem("VRLabs/Local Mirror Detection")]
+		[MenuItem("VRLabs/Create Instance/Local Mirror Detection")]
 		public static void FancyPackage()
 		{
 			Type instancerType = AppDomain.CurrentDomain.GetAssemblies()
