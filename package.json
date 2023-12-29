@@ -18,13 +18,13 @@
     "Assets\\VRLabs\\Local Mirror Detection": "752b7e9b073124232a11f12753e8d120"
   },
   "unityPackageDestinationFolder": "Assets/VRLabs/Local Mirror Detection",
-  "unitypackageDestinationFolderMetas": {
-    "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
-    "Assets/VRLabs/Local Mirror Detection": "752b7e9b073124232a11f12753e8d120"
-  },
   "vccRepoCategory": "components",
   "media": {
     "previewImage": "https://github.com/VRLabs/Local-Mirror-Detection/blob/main/Media/Preview.webp",
     "previewGif": "https://github.com/VRLabs/Local-Mirror-Detection/blob/main/Media/Preview.webp"
+  },
+  "unityPackageDestinationFolderMetas": {
+    "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+    "Assets/VRLabs/Local Mirror Detection": "752b7e9b073124232a11f12753e8d120"
   }
 }
