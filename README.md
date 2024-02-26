@@ -16,8 +16,8 @@ Sets an "IsMirror" parameter to true on your mirror clone
 
 ### ⬇️ [Download Latest Version](https://github.com/VRLabs/Local-Mirror-Detection/releases/latest)
 
-<!-- 
-### 📦 [Add to VRChat Creator Companion]() -->
+
+### 📦 [Add to VRChat Creator Companion](https://vrlabs.dev/packages?package=dev.vrlabs.local-mirror-detection)
 
 </div>
 
