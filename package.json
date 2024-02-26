@@ -1,0 +1,30 @@
+{
+  "name": "dev.vrlabs.local-mirror-detection",
+  "displayName": "Local Mirror Detection",
+  "version": "1.0.999",
+  "license": "MIT",
+  "unity": "2019.4",
+  "description": "Sets an \"IsMirror\" parameter to true on your mirror clone",
+  "author": {
+    "name": "VRLabs",
+    "email": "mail@vrlabs.dev",
+    "url": "https://vrlabs.dev"
+  },
+  "siteUrl": "https://github.com/VRLabs/Local-Mirror-Detection",
+  "vpmDependencies": {
+    "dev.vrlabs.instancer": "1.x"
+  },
+  "legacyFolders": {
+    "Assets\\VRLabs\\Local Mirror Detection": "752b7e9b073124232a11f12753e8d120"
+  },
+  "unityPackageDestinationFolder": "Assets/VRLabs/Local Mirror Detection",
+  "vccRepoCategory": "components",
+  "media": {
+    "previewImage": "https://raw.githubusercontent.com/VRLabs/Local-Mirror-Detection/main/Media/Web/Preview.webp",
+    "previewGif": "https://raw.githubusercontent.com/VRLabs/Local-Mirror-Detection/main/Media/Web/Preview.webp"
+  },
+  "unityPackageDestinationFolderMetas": {
+    "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
+    "Assets/VRLabs/Local Mirror Detection": "752b7e9b073124232a11f12753e8d120"
+  }
+}
