@@ -3,7 +3,7 @@
   "displayName": "Local Mirror Detection",
   "version": "1.0.999",
   "license": "MIT",
-  "unity": "2019.4",
+  "unity": "2022.3",
   "description": "Sets an \"IsMirror\" parameter to true on your mirror clone",
   "author": {
     "name": "VRLabs",
@@ -26,5 +26,6 @@
   "unityPackageDestinationFolderMetas": {
     "Assets/VRLabs": "652a1ba5b00554143bc9a76307dbc4e8",
     "Assets/VRLabs/Local Mirror Detection": "752b7e9b073124232a11f12753e8d120"
-  }
+  },
+  "questCompatibility": "full"
 }
